@@ -39,13 +39,13 @@ const projects = [
 
 const certificates = [
   {
-    title: 'Certificate 01',
-    issuer: 'Replace with the issuing organization',
+    title: 'Frontiers of Computer Engineering: 2025 International Conference on New and Emerging Technologies',
+    issuer: 'CSU-Carig College of Engineering and Architecture',
     file: '/118.png',
   },
   {
-    title: 'Certificate 02',
-    issuer: 'Replace with the issuing organization',
+    title: 'Regional ITE Summit 2026',
+    issuer: 'Institute of Computer Engineers of the Philippnes',
     file: '/Tabaldo.png',
   },
 ]
